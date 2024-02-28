@@ -17,7 +17,7 @@ Projeto desenvolvido durante o Hackthoon da **Recode Pro 2023**  com a **Panic L
 
 <div align="center">
 <img src="https://github.com/nataliarodrxgues/favela-ligada-app/blob/main/img/pagInicial" width="230" height="370">&nbsp;&nbsp;
-<img src="https://github.com/nataliarodrxgues/favela-ligada-app/blob/main/img/login" width="230" height="370"> &nbsp;
+<img src="https://github.com/nataliarodrxgues/favela-ligada-app/blob/main/img/login" width="230" height="370"> &nbsp;<br>
 <img src="https://github.com/nataliarodrxgues/favela-ligada-app/blob/main/img/servicos" width="230" height="370"> &nbsp;
 <img src="https://github.com/nataliarodrxgues/favela-ligada-app/blob/main/img/servicosCont" width="230" height="370">&nbsp;&nbsp;
 
