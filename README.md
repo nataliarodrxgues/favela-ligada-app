@@ -11,7 +11,7 @@
 
 App criado no Hackathoon 2023 da Recode com a Panic Lobster, o Favela Ligada, é um App para ajudar os empreendedores locais dentro de comunidades a aumentar suas vendas e divulgação de seus serviços, através de ferramentas de divulgação, localização e entrega de seus produtos dentro da plataforma. 
 Projeto desenvolvido durante o Hackthoon da **Recode Pro 2023**  com a **Panic Lobster** para adquirir vaga no projeto da [Recode](https://recodepro.org.br).
-<br><br><br><br>
+<br><br>
 
 ### **Visualização do App**
 
